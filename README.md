@@ -10,7 +10,8 @@
 <h1 align="center">Howdy, I'm Cristian</h1>
 <h3 align="center">I am a Software Engineer who enjoys venturing into new areas that can test my knowledge and put my expertise to work.Always willing to learn something new that can further assist me in expanding my repertoire of skills.</h3>
 
-- 📫 How to reach me **rcmtcristian@gmail.com**
+
+<h5 align="center">How to reach me **rcmtcristian@gmail.com**</h5>
 <hr>
 
 
