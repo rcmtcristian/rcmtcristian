@@ -4,6 +4,7 @@
 <p align="center">
 <a href="https://twitter.com/rcmtcristian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rcmtcristian" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/cristian-ernesto-matos-richards/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristian matos richards" height="30" width="40" /></a>
+  <h5 align="center"><strong>rcmtcristian@gmail.com<strong></h5>
 </p>
 <hr>
 
@@ -11,7 +12,7 @@
 <h3 align="center">I am a Software Engineer who enjoys venturing into new areas that can test my knowledge and put my expertise to work.Always willing to learn something new that can further assist me in expanding my repertoire of skills.</h3>
 
 
-<h5 align="center">How to reach me <strong>rcmtcristian@gmail.com<strong></h5>
+
 <hr>
 
 
