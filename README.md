@@ -15,18 +15,6 @@
   <div class="grid h-20 card bg-base-300 rounded-box place-items-center"><h3 align="center">I am a Software Engineer who enjoys venturing into new areas that can test my knowledge and put my expertise to work. Always willing to learn something new that can further assist me in expanding my repertoire of skills.</h3>  </div> 
   <div class="divider"></div> 
   
- <h3 align="center">Projects</h3>
- <div class="card w-96 glass">
-  <figure><img src="https://api.lorem.space/image/car?w=400&h=225" alt="car!"></figure>
-  <div class="card-body">
-    <h2 class="card-title">Life hack</h2>
-    <p>How to park your car at your garage?</p>
-    <div class="card-actions justify-end">
-      <button class="btn btn-primary">Learn now!</button>
-    </div>
-  </div>
-</div>
-  
   
   <hr>
   <div class="grid h-20 card bg-base-300 rounded-box place-items-center">
