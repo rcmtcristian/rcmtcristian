@@ -13,7 +13,31 @@
 
 <div class="flex flex-col w-full">
   <div class="grid h-20 card bg-base-300 rounded-box place-items-center"><h3 align="center">I am a Software Engineer who enjoys venturing into new areas that can test my knowledge and put my expertise to work. Always willing to learn something new that can further assist me in expanding my repertoire of skills.</h3>  </div> 
-  <div class="divider"><hr></div> 
+  <div class="divider"></div> 
+  
+ <h3 align="center">Projects</h3>
+  <div class="card w-96 bg-base-100 shadow-xl">
+  <figure><img src="https://i.imgur.com/zsObGEe.gif" alt="Shoes" /></figure>
+  <div class="card-body">
+    <h2 class="card-title">
+      Shoes!
+      <div class="badge badge-secondary">NEW</div>
+    </h2>
+    <p>A diverse Social networking site</p>
+    <div class="card-actions justify-end">
+      <div class="badge badge-outline">
+      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> Code </a>
+      </div> 
+      <div class="badge badge-outline">
+        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> Website </a>
+        </div>
+    </div>
+  </div>
+</div>
+  
+  
+  
+  <hr>
   <div class="grid h-20 card bg-base-300 rounded-box place-items-center">
   <h3 align="center">Technical Skills</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Wdqt6r1.gif" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Mhm8gqE.gif" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/2qN4sBt.gif" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/f5Cd7ZO.gif" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/QQ0ar2c.gif" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Cah19Z9.gif" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
