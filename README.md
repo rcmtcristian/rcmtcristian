@@ -16,21 +16,13 @@
   <div class="divider"></div> 
   
  <h3 align="center">Projects</h3>
-  <div class="card w-96 bg-base-100 shadow-xl">
-  <figure><img src="https://i.imgur.com/zsObGEe.gif" alt="Shoes" /></figure>
+  <div class="card card-side bg-base-100 shadow-xl">
+  <figure><img src="https://api.lorem.space/image/movie?w=200&h=280" alt="Movie"></figure>
   <div class="card-body">
-    <h2 class="card-title">
-      Shoes!
-      <div class="badge badge-secondary">NEW</div>
-    </h2>
-    <p>A diverse Social networking site</p>
+    <h2 class="card-title">New movie is released!</h2>
+    <p>Click the button to watch on Jetflix app.</p>
     <div class="card-actions justify-end">
-      <div class="badge badge-outline">
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> Code </a>
-      </div> 
-      <div class="badge badge-outline">
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> Website </a>
-        </div>
+      <button class="btn btn-primary">Watch</button>
     </div>
   </div>
 </div>
