@@ -1,4 +1,4 @@
-<a href="https://youtu.be/0jZNKV5ROBM" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/cwMCfG4.png" title="source: imgur.com" /></a>
+<a href="https://www.youtube.com/watch?v=0jZNKV5ROBM"><img src="https://i.imgur.com/cwMCfG4.png" title="source: imgur.com" /></a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
