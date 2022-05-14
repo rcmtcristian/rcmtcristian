@@ -1,4 +1,4 @@
-<a href="https://imgur.com/cwMCfG4"><img src="https://i.imgur.com/cwMCfG4.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/uSZrE6I"><img src="https://i.imgur.com/uSZrE6I.gif" title="source: imgur.com" /></a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
