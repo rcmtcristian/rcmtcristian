@@ -15,7 +15,7 @@
   <div class="grid h-20 card bg-base-300 rounded-box place-items-center"><h3 align="center">I am a Software Engineer who enjoys venturing into new areas that can test my knowledge and put my expertise to work. Always willing to learn something new that can further assist me in expanding my repertoire of skills.</h3>  </div> 
   <div class="divider"></div> 
   
-  <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+  <h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
