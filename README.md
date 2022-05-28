@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=0jZNKV5ROBM"><img src="https://i.imgur.com/cwMCfG4.png" title="source: imgur.com" /></a>
 
-<h1 align="center">  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me: </h1>
+<h1 align="center"> Connect with me: </h1> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 <p align="center">
 <a href="https://twitter.com/rcmtcristian" target="blank"><img align="center" src="https://i.imgur.com/s9n8Ta7.gif" alt="rcmtcristian" height="47" width="47" /></a>
 <a href="https://www.linkedin.com/in/cristian-ernesto-matos-richards/" target="blank"><img align="center" src="https://i.imgur.com/vaCEbOT.gif" alt="cristian matos richards" height="47" width="47" /></a>
