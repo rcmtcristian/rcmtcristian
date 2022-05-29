@@ -38,7 +38,7 @@
  
   </div>
   <div align='center'>
-    ![profile-3d](https://github.com/rcmtcristian/rcmtcristian/blob/main/profile-3d-contrib/profile-night-view.svg)
+    ![profile-3d](https://raw.githubusercontent.com/rcmtcristian/rcmtcristian/f662cb09f21227b097f906186c8810341356f474/profile-3d-contrib/profile-night-view.svg)
   </div>
   
 </div>
