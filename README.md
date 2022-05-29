@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://twitter.com/rcmtcristian" target="blank"><img align="center" src="https://i.imgur.com/s9n8Ta7.gif" alt="rcmtcristian" height="47" width="47" /></a>
 <a href="https://www.linkedin.com/in/cristian-ernesto-matos-richards/" target="blank"><img align="center" src="https://i.imgur.com/vaCEbOT.gif" alt="cristian matos richards" height="47" width="47" /></a>
-  <h5 align="center"><strong>rcmtcristian@gmail.com<strong></h5>
+  <h5 align="center">[Gmail](rcmtcristian@gmail.com)</h5>
 </p>
 <hr>
 
