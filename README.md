@@ -28,7 +28,7 @@
 
 - 💬 Talk to me about CSS, JavaScript, Freelancing Opportunites, Open Source, Anime 
 
-  ![profile-3d](https://github.com/rcmtcristian/rcmtcristian/blob/main/profile-3d-contrib/profile-night-view.svg)
+
   <hr>
   <div class="grid h-20 card bg-base-300 rounded-box place-items-center">
   <h1 align="center">Technical Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> </h1>
@@ -37,9 +37,7 @@
     
  
   </div>
-  <div align='center'>
-  
-  </div>
+  ![profile-3d](https://github.com/rcmtcristian/rcmtcristian/blob/main/profile-3d-contrib/profile-night-view.svg)
   
 </div>
 
