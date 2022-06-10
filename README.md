@@ -17,7 +17,7 @@
   
   <h2> About Me</h2>
 
-<img width="15%" align="right" alt="Github" src="https://i.imgur.com/tyEzigv.gif" />
+<img width="35%" align="right" alt="Github" src="https://i.imgur.com/tyEzigv.gif" />
 
 
 - 🔭 I’m currently working on Many Github Projects
