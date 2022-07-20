@@ -78,6 +78,90 @@
 
 </td></tr></table>  
 
+  
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ForestGlobal.com</h3>
+        <br />
+        <a target="_blank" href="https://lucky-creponne-757be7.netlify.app">
+            <img src="https://i.postimg.cc/tJZ6FWwK/forest-3.gif" width="100%" alt="Travel App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/rcmtcristian/botanic" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>  
+  <a href="https://lucky-creponne-757be7.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Bootstrap, HTML, CSS</strong> - A website to showcase the research and advocate work of the org. Webpage is single page landing as requested. </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">	Darya'sEremia</h3>
+        <br />
+      <a target="_blank" href="https://glittery-kheer-212985.netlify.app">
+            <img src="https://i.imgur.com/vTzkMPK.jpg" width="100%"  alt="Darya'sEremia"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/rcmtcristian/html5up-art-gallery" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://glittery-kheer-212985.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, SCSS & Javascript</strong> - A gallery website whowcasing the various collection of pictures.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">rcmtcristian.com</h3>
+      <br />
+        <a target="_blank" href="https://rcmtcristian.com">
+          <img src="https://i.postimg.cc/Rhq8GBzs/site.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/rcmtcristian/rcmtcristian" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://rcmtcristian.com" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5 & CSS3 </strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Hairdresser Salon</h3>
+        <br />
+        <a target="_blank" href="https://brilliant-chaja-5692a0.netlify.app/">
+          <img src="https://i.imgur.com/WQIqT4F.png" width="100%" alt="Hairdresser Salon"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/rcmtcristian/Hair-Salon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rcmtcristian/Hair-Salon" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - salon site displaying the works of the staff, bussiness ethos and styling goals </p>
+    </td>
+  </tr>
+</table>
+
+  
 <br/>  
 
    ![profile-3d](https://github.com/rcmtcristian/rcmtcristian/blob/main/profile-3d-contrib/profile-night-view.svg)
