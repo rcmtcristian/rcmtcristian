@@ -88,7 +88,7 @@
       <h3 align="center">ForestGlobal.com</h3>
         <br />
         <a target="_blank" href="https://lucky-creponne-757be7.netlify.app">
-            <img src="https://i.postimg.cc/tJZ6FWwK/forest-3.gif" width="100%" alt="Travel App"/>
+            <img src="https://i.postimg.cc/tJZ6FWwK/forest-3.gif" width="100%" alt="Climate change advocates site"/>
         </a>
         <br />
         <p align="center">
