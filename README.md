@@ -93,7 +93,7 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/rcmtcristian/botanic/blob/master/README%20(1).md" target="_blank">
+  <a href="https://github.com/rcmtcristian/botanic" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>  
   <a href="https://lucky-creponne-757be7.netlify.app" target="_blank">
