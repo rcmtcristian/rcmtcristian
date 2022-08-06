@@ -20,9 +20,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Many Github Projects
+- 🔭 I’m currently working on a NASA API dependent site
 
-- 🌱 I’m currently learning JS, SASS and NODE 
+- 🌱 I’m currently learning anime.js, two.js, hammer.js
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles and Meetups  
 
