@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://twitter.com/rcmtcristian" target="blank"><img align="center" src="https://i.imgur.com/s9n8Ta7.gif" alt="rcmtcristian" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/cristian-ernesto-matos-richards/" target="blank"><img align="center" src="https://i.imgur.com/vaCEbOT.gif" alt="cristian matos richards" height="50" width="50" /></a>
-  <a href="https://drive.google.com/uc?export=download&id=1MIcMtG0gXQpNhM-sO39b-0FAyg3bVAfc" target="blank"><img align="center" src="https://i.imgur.com/94WA57r.gif" alt="resume" height="90" width="89" /></a>
+  <a href="https://drive.google.com/uc?export=download&id=1MIcMtG0gXQpNhM-sO39b-0FAyg3bVAfc" target="blank"><img align="center" src="https://i.imgur.com/J4xcfcn.gif" alt="resume" height="60" width="52" /></a>
   <h4 align="center">rcmtcristian@gmail.com</h4>
 </p>
 <hr>
