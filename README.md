@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on Opensource projects
 
-- 🌱 I’m currently learning anime.js, two.js, hammer.js
+- 🌱 I’m currently learning NODE JS
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles and Meetups  
 
