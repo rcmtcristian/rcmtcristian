@@ -143,22 +143,22 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Hairdresser Salon</h3>
+      <h3 align="center">Silver Nebula</h3>
         <br />
-        <a target="_blank" href="https://brilliant-chaja-5692a0.netlify.app/">
-          <img src="https://i.imgur.com/WQIqT4F.png" width="100%" alt="Hairdresser Salon"/>
+        <a target="_blank" href="https://dashing-raindrop-14fe19.netlify.app/">
+          <img src="https://i.imgur.com/ZgNY4sE.png" width="100%" alt="Hairdresser Salon"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/rcmtcristian/Hair-Salon" target="_blank">
+  <a href="https://github.com/rcmtcristian/NASA" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/rcmtcristian/Hair-Salon" target="_blank">
+  <a href="https://dashing-raindrop-14fe19.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - salon site displaying the works of the staff, bussiness ethos and styling goals </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Web App using the NASA APOD API to look through images taken and submited to the NASA database by their date </p>
     </td>
   </tr>
 </table>
