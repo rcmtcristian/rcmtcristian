@@ -146,7 +146,7 @@
       <h3 align="center">Silver Nebula</h3>
         <br />
         <a target="_blank" href="https://dashing-raindrop-14fe19.netlify.app/">
-          <img src="https://i.imgur.com/ZgNY4sE.png" width="100%" alt="Hairdresser Salon"/>
+          <img src="https://i.imgur.com/KUeelxI.gif" width="100%" alt="Hairdresser Salon"/>
         </a>
         <br />
         <p align="center">
