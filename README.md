@@ -9,7 +9,7 @@
 </p>
 <hr>
 
-<h1 align="center">Howdy, I'm Cristian</h1>
+<h1 align="center">Howdy</h1>
 
 
 <div class="flex flex-col w-full">
