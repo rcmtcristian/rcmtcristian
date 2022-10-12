@@ -21,7 +21,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Opensource projects such as DistributeAid, Program Equityand more
+- 🔭 I’m currently working on Opensource projects such as DistributeAid, Program Equity and many more more
 
 - 🌱 I’m currently learning NODE JS
 
