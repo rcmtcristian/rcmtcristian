@@ -21,9 +21,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Opensource projects such as DistributeAid, Program Equity and many more more
+- 🔭 I’m currently working on Opensource projects such as [DistributeAid](https://distributeaid.org/), [Program Equity](https://github.com/ProgramEquity) and many more 
 
-- 🌱 I’m currently learning NODE JS
+- 🌱 I’m currently learning React
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles and Meetups  
 
