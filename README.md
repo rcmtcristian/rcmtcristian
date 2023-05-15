@@ -4,9 +4,8 @@
 <p align="center">
 <a href="https://twitter.com/rcmtcristian" target="blank"><img align="center" src="https://i.imgur.com/s9n8Ta7.gif" alt="rcmtcristian" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/cristian-ernesto-matos-richards/" target="blank"><img align="center" src="https://i.imgur.com/vaCEbOT.gif" alt="cristian matos richards" height="50" width="50" /></a>
+  <a href="https://bento.me/rcmtcristian" target="blank"><img align="center" src="https://github.com/rcmtcristian/rcmtcristian/assets/20276785/4f61d428-70db-4f86-ab64-ae61c6d9bd94" alt="More ways to contact me" height="50" width="50" /></a>
   <a href="https://drive.google.com/uc?export=download&id=1-3V2vOrNqolPGFRAPK3SXxCyzObavS3z" target="blank"><img align="center" src="https://i.imgur.com/J4xcfcn.gif" alt="resume" height="60" width="52" /></a>
- 
- 🔭[... More ways to contact me](https://bento.me/rcmtcristian)
  
 </p>
 <hr>
@@ -25,7 +24,7 @@
 
 - 🔭 I’m currently working on Opensource projects such as [DistributeAid](https://distributeaid.org/), [Program Equity](https://github.com/ProgramEquity) and many more 
 
-- 🌱 I’m currently learning React
+- ✨ I’m currently learning React three fiber
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles and Meetups  
 
@@ -92,8 +91,7 @@
       <h3 align="center">ForestGlobal.com</h3>
         <br />
         <a target="_blank" href="https://lucky-creponne-757be7.netlify.app">
-<!--           <img src="https://i.postimg.cc/6qKvrd4Y/QHxHbEQ.png" width="100%" alt="Portfolio"/> -->
-          <img src="https://i.imgur.com/GWIYCzt.gif" width="100%" alt="Portfolio"/>
+          <img src="https://github.com/rcmtcristian/rcmtcristian/assets/20276785/64d6d00a-bf0a-493b-ae09-161de86df7a9" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
