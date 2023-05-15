@@ -92,7 +92,8 @@
       <h3 align="center">ForestGlobal.com</h3>
         <br />
         <a target="_blank" href="https://lucky-creponne-757be7.netlify.app">
-          <img src="https://i.postimg.cc/6qKvrd4Y/QHxHbEQ.png" width="100%" alt="Portfolio"/>
+<!--           <img src="https://i.postimg.cc/6qKvrd4Y/QHxHbEQ.png" width="100%" alt="Portfolio"/> -->
+          <img src="https://i.imgur.com/GWIYCzt.gif" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
