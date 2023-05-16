@@ -1,6 +1,10 @@
 <a href="https://rcmtcristian.com"><img src="https://i.imgur.com/cwMCfG4.png" title="source: imgur.com" /></a>
 
 <!-- <h1 align="center"> Connect with me: </h1>  -->
+<!-- 
+<hr> -->
+
+<h1 align="center">Howdy!</h1>
 <p align="center">
 <a href="https://twitter.com/rcmtcristian" target="blank"><img align="center" src="https://i.imgur.com/RC8xeSl.png" alt="rcmtcristian" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/cristian-ernesto-matos-richards/" target="blank"><img align="center" src="https://i.imgur.com/1KHO1BL.png" alt="cristian matos richards" height="50" width="50" /></a>
@@ -9,10 +13,6 @@
   <a href="https://drive.google.com/uc?export=download&id=1-3V2vOrNqolPGFRAPK3SXxCyzObavS3z" target="blank"><img align="center" src="https://i.imgur.com/60keZSy.png" alt="resume" height="50" width="50" /></a>
  
 </p>
-<hr>
-
-<h1 align="center">Howdy!</h1>
-
 
 <div class="flex flex-col w-full">
   <div class="grid h-20 card bg-base-300 rounded-box place-items-center"><h3 align="center">I am a Software Engineer who enjoys venturing into new areas that can test my knowledge and put my expertise to work. Always willing to learn something new that can further assist me in expanding my repertoire of skills.</h3>  </div> 
