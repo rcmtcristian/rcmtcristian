@@ -1,12 +1,12 @@
 <a href="https://rcmtcristian.com"><img src="https://i.imgur.com/cwMCfG4.png" title="source: imgur.com" /></a>
 
-<h1 align="center"> Connect with me: </h1> 
+<!-- <h1 align="center"> Connect with me: </h1>  -->
 <p align="center">
-<a href="https://twitter.com/rcmtcristian" target="blank"><img align="center" src="https://i.imgur.com/s9n8Ta7.gif" alt="rcmtcristian" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/cristian-ernesto-matos-richards/" target="blank"><img align="center" src="https://i.imgur.com/vaCEbOT.gif" alt="cristian matos richards" height="50" width="50" /></a>
+<a href="https://twitter.com/rcmtcristian" target="blank"><img align="center" src="https://i.imgur.com/RC8xeSl.png" alt="rcmtcristian" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/cristian-ernesto-matos-richards/" target="blank"><img align="center" src="https://i.imgur.com/1KHO1BL.png" alt="cristian matos richards" height="50" width="50" /></a>
   <a href="https://bento.me/rcmtcristian" target="blank">
-    <img align="center" src="https://i.imgur.com/Qf0O34j.png" alt="More ways to contact me" height="50" width="50" /></a>
-  <a href="https://drive.google.com/uc?export=download&id=1-3V2vOrNqolPGFRAPK3SXxCyzObavS3z" target="blank"><img align="center" src="https://i.imgur.com/J4xcfcn.gif" alt="resume" height="60" width="52" /></a>
+    <img align="center" src="https://i.imgur.com/KnT8j8L.png" alt="More ways to contact me" height="50" width="50" /></a>
+  <a href="https://drive.google.com/uc?export=download&id=1-3V2vOrNqolPGFRAPK3SXxCyzObavS3z" target="blank"><img align="center" src="https://i.imgur.com/60keZSy.png" alt="resume" height="50" width="50" /></a>
  
 </p>
 <hr>
@@ -20,8 +20,8 @@
   
   <h2> About Me</h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+ -->
 
 - 🔭 I’m currently working on Opensource projects such as [DistributeAid](https://distributeaid.org/), [Program Equity](https://github.com/ProgramEquity) and many more 
 
