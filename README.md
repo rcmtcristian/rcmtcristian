@@ -10,7 +10,8 @@
 <a href="https://www.linkedin.com/in/cristian-ernesto-matos-richards/" target="blank"><img align="center" src="https://i.imgur.com/1KHO1BL.png" alt="cristian matos richards" height="50" width="50" /></a>
   <a href="https://bento.me/rcmtcristian" target="blank">
     <img align="center" src="https://i.imgur.com/KnT8j8L.png" alt="More ways to contact me" height="50" width="50" /></a>
-  <a href="https://drive.google.com/uc?export=download&id=1-3V2vOrNqolPGFRAPK3SXxCyzObavS3z" target="blank"><img align="center" src="https://i.imgur.com/60keZSy.png" alt="resume" height="50" width="50" /></a>
+<!--   <a href="https://drive.google.com/uc?export=download&id=1-3V2vOrNqolPGFRAPK3SXxCyzObavS3z" target="blank"><img align="center" src="https://i.imgur.com/60keZSy.png" alt="resume" height="50" width="50" /></a> -->
+    <a href="https://drive.google.com/file/d/1KMnQvuCp5hxROG-2ujvP6BOqJXM6tMat/view?usp=sharing" target="blank"><img align="center" src="https://i.imgur.com/60keZSy.png" alt="resume" height="50" width="50" /></a>
  
 </p>
 
