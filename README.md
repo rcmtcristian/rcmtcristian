@@ -117,10 +117,10 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/rcmtcristian/html5up-art-gallery" target="_blank">
+  <a href="https://github.com/rcmtcristian/musicworld#" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://glittery-kheer-212985.netlify.app" target="_blank">
+  <a href="https://musicworld-rcmtcristian.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
       </p>
