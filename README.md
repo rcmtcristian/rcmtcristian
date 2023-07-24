@@ -109,10 +109,10 @@
         <p><strong>Javascript, Bootstrap, HTML, CSS</strong> - A website to showcase the research and advocate work of the org. Webpage is single page landing as requested. </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">	Darya'sEremia</h3>
+      <h3 align="center">	MussicWorld</h3>
         <br />
-      <a target="_blank" href="https://glittery-kheer-212985.netlify.app">
-            <img src="https://i.imgur.com/vTzkMPK.jpg" width="100%"  alt="Darya'sEremia"/>
+      <a target="_blank" href="https://musicworld-rcmtcristian.vercel.app/">
+            <img src="https://i.imgur.com/iuMarwG.png" width="100%"  alt="Darya'sEremia"/>
         </a>
         <br />
         <p align="center">
