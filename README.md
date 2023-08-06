@@ -20,10 +20,11 @@
   <div class="grid h-20 card bg-base-300 rounded-box place-items-center"><h3 align="center">I am a Software Engineer who enjoys venturing into new areas that can test my knowledge and put my expertise to work. Always willing to learn something new that can further assist me in expanding my repertoire of skills.</h3>  </div> 
   <div class="divider"></div> 
   
-  <h2> About Me</h2>
+ <!-- <h2> About Me</h2>
 
-<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
- -->
+ <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 
 - 🔭 I’m currently working on Opensource projects such as [DistributeAid](https://distributeaid.org/), [Program Equity](https://github.com/ProgramEquity) and many more 
 
@@ -32,6 +33,7 @@
 - 👯 I’m looking to collaborate on Projects, Tech Articles and Meetups  
 
 - 💬 Talk to me about CSS, JavaScript, Freelancing Opportunites, Open Source, Anime 
+ -->
 
 <!--
   <hr>
