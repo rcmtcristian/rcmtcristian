@@ -135,8 +135,7 @@
       <h3 align="center">rcmtcristian.com</h3>
       <br />
         <a target="_blank" href="https://rcmtcristian.com">
-          <img src="https://i.postimg.cc/Rhq8GBzs/site.gif" width="100%" alt="Portfolio"/>
-        </a>
+          <img src="https://github.com/rcmtcristian/rcmtcristian/assets/20276785/f19465b0-ba4d-4f84-be1e-e962f42b3995" width="100%" alt="Portfolio"/>
       <br />
         <p align="center">
   <a href="https://github.com/rcmtcristian/port-v4" target="_blank">
