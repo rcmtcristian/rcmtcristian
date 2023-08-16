@@ -126,7 +126,7 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, SCSS & Javascript</strong> - A gallery website whowcasing the various collection of pictures.</p>
+        <p><strong>React, Typescript, Tailwind, MongoDB, Clerk</strong> -MusicWorld makes it easy to discover and explore new artists. By implementing and curating various APIs like Spotify, LastFM, and SoundCloud, it allows users to find a diverse assortment of artists from all around the world.</p>
     </td>
   </tr>
   
