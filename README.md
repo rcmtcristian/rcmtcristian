@@ -163,7 +163,7 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Web App using the NASA APOD API to look through images taken and submited to the NASA database by their date </p>
+        <p><strong>Pug, Three.js, Gsap, & Prismic</strong> - Full stack web app for a catalog and reasearch of plants </p>
     </td>
   </tr>
 </table>
