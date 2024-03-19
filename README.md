@@ -163,7 +163,7 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
       </p>
-        <p><strong>Pug, Three.js, Gsap, & Prismic</strong> - Full stack web app for a catalog and reasearch of plants </p>
+        <p><strong>Pug, Three.js, Gsap, & Prismic</strong> - Full stack web app for a catalog and reasearch of plants which are none toxic for pets </p>
     </td>
   </tr>
 </table>
